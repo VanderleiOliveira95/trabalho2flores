@@ -1,0 +1,30 @@
+/******************************************************************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Front-End
+Professor: José Carlos Flores
+Turma: ADS3B
+Componentes:
+ 25246894-2 - Lucas Alves Bonnet
+ 25153556-2 - Aline Rodrigues Iorkievicz
+ 25036114-2 - Vanderlei Oliveira Junior
+ 25181953-2 - Gilberto Espanga Junior
+ 25216347-2 - Kauany Paula da Silva
+ 25355474-2 - Silvia de Oliveira Fabro
+ 25178018-2 - Yuri Kauan de Paula
+Data: 05 de Março de 2026
+Descritivo:  Imprima apenas os números pares de 0 a 20 usando `continue`.
+*******************************************************************************/
+
+//A função recebe um valor e faz um loop passando apenas pelos pares e adicionando ao array apenas os numeros que cabem na regra de serem igauis a 0 e ao fim são adiconados ao array.
+function evenNumbers (num){
+    let numbers = [];
+    for (let index = 0; index <= num; index++) {
+        if(index % 2 != 0 ){
+            continue
+        }
+        numbers.push(index);
+    }
+    return numbers;
+}
+
+console.log("Os numeros pares são : ", evenNumbers(20));
