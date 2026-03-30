@@ -14,7 +14,6 @@ Componentes:
 Data: 05 de Março de 2026
 Descritivo: 1. Crie um programa que verifique se um número é par ou ímpar.
 *******************************************************************************/
-//1. Crie um programa que verifique se um número é par ou ímpar.
 
 
 // Solicita ao usuário que digite um número
