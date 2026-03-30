@@ -15,7 +15,6 @@ Data: 05 de Março de 2026
 Descritivo:
 23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!
 "*******************************************************************************/
-//23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!"
 
 // Declara a função com um parâmetro: nome
 function saudacao(nome) { // recebe o nome como argumento
