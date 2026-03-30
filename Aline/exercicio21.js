@@ -14,7 +14,6 @@ Componentes:
 Data: 05 de Março de 2026
 Descritivo: 21. Crie uma função `soma(a, b)` que retorne a soma de dois números.
 *******************************************************************************/
-//21. Crie uma função `soma(a, b)` que retorne a soma de dois números.
 
 // Declara a função soma com dois parâmetros: a e b
 function soma(a, b) { // a e b são os valores que serão somados
