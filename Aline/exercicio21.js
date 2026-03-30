@@ -16,3 +16,11 @@ Descritivo: 21. Crie uma função `soma(a, b)` que retorne a soma de dois númer
 *******************************************************************************/
 //21. Crie uma função `soma(a, b)` que retorne a soma de dois números.
 
+// Declara a função soma com dois parâmetros: a e b
+function soma(a, b) { // a e b são os valores que serão somados
+    return a + b; // retorna o resultado da soma
+}
+
+// Exemplo de uso:
+let resultado = soma(5, 3); // chama a função passando 5 e 3
+console.log(resultado); // imprime 8 no console
