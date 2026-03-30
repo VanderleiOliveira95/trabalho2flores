@@ -17,3 +17,12 @@ Descritivo:
 31. Dada uma string, transforme-a em um array de caracteres.[nome]!
 "*******************************************************************************/
 //31. Dada uma string, transforme-a em um array de caracteres.
+
+// String de exemplo
+let texto = "JavaScript";
+
+// Converte a string em um array de caracteres
+let arrayCaracteres = texto.split(""); // split("") separa cada letra
+
+// Exibe o resultado
+console.log(arrayCaracteres); // ["J", "a", "v", "a", "S", "c", "r", "i", "p", "t"]
