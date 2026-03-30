@@ -14,7 +14,6 @@ Componentes:
 Data: 05 de Março de 2026
 Descritivo: 22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
 *******************************************************************************/
-//22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
 
 // Declara a função com dois parâmetros: base e altura
 function areaRetangulo(base, altura) { // recebe os valores da base e da altura
