@@ -23,5 +23,5 @@ function saudacao(nome) { // recebe o nome como argumento
 }
 
 // Exemplo de uso:
-let mensagem = saudacao("Maria"); // chama a função passando "Maria"
-console.log(mensagem); // imprime: Olá, Maria!
+let mensagem = saudacao("kauany"); // chama a função passando "Maria"
+console.log(mensagem); // imprime: Olá, kauany!
