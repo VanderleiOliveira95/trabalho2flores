@@ -57,7 +57,6 @@ function calcularEstatisticas(employees) {
     };
 }
 
-// Dados de exemplo
 const employees = [
     { name: 'Alice', salary: 5000 },
     { name: 'Bob', salary: 6000 },

@@ -76,7 +76,7 @@ Este repositório contém uma lista com 50 exercícios para praticar os fundamen
 45. Use `.forEach()` com Arrow Function para imprimir cada item de um array. (YURI)
 46. Crie uma Higher-Order Function que receba uma função e retorne outra função que execute a primeira duas vezes. (VANDERLEI)
 47. Encadeie `.filter()` e `.map()`: filtre pares e depois eleve ao quadrado. (KAUANY)
-48. Use `.reduce()` para transformar um array de objetos em um objeto somatório (ex: somar salários). (VANDERLEI)
+48. Use `.reduce()` para transformar um array de objetos em um objeto somatório (ex: somar salários). (LUCAS)
 49. Crie uma função `criarMultiplicador(multiplicador)` que retorne uma função que multiplica qualquer número pelo multiplicador (Closure). (YURI)
 50. Implemente um "Currying" simples: `soma(2)(3)` deve retornar 5. (KAUANY)
 
