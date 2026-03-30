@@ -12,6 +12,6 @@ Componentes:
  25355474-2 - Silvia de Oliveira Fabro
  25178018-2 - Yuri Kauan de Paula
 Data: 05 de Março de 2026
-Descritivo: 22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.*******************************************************************************/
-//22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.21. Crie uma função `soma(a, b)` que retorne a soma de dois números.
-
+Descritivo: 22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
+*******************************************************************************/
+//22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
