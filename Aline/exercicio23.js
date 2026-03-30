@@ -16,3 +16,12 @@ Descritivo:
 23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!
 "*******************************************************************************/
 //23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!"
+
+// Declara a função com um parâmetro: nome
+function saudacao(nome) { // recebe o nome como argumento
+    return "Olá, " + nome + "!"; // concatena o texto com o nome
+}
+
+// Exemplo de uso:
+let mensagem = saudacao("Maria"); // chama a função passando "Maria"
+console.log(mensagem); // imprime: Olá, Maria!
