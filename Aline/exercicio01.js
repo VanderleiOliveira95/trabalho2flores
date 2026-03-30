@@ -16,3 +16,16 @@ Descritivo: 1. Crie um programa que verifique se um número é par ou ímpar.
 *******************************************************************************/
 //1. Crie um programa que verifique se um número é par ou ímpar.
 
+
+// Solicita ao usuário que digite um número
+let numero = prompt("Digite um número:"); // prompt abre uma caixa para o usuário inserir um valor
+
+// Converte o valor digitado (string) para número
+numero = Number(numero); // Number transforma o texto em número
+
+// Verifica se o número é par ou ímpar
+if (numero % 2 === 0) { // % é o operador de resto da divisão
+    console.log("O número é par"); // se o resto da divisão por 2 for 0, é par
+} else {
+    console.log("O número é ímpar"); // caso contrário, é ímpar
+}
