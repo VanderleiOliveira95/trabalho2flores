@@ -16,22 +16,21 @@ Data: 30 de Março de 2026
 Descritivo: Faça um script que receba a idade de uma pessoa e diga se ela pode votar (16 anos ou mais).
 *******************************************************************************/
 
-function encontrarMaior(num1, num2) {
-  if (num1 > num2) {
-    return num1;
+import * as readline from 'readline';
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+rl.question("Digite sua idade: ", function(resposta) {
+  let idade = parseInt(resposta);
+
+  if (idade >= 16) {
+    console.log("Você pode votar!!");
   } else {
-    return num2;
+    console.log("Você não pode votar ainda.");
   }
-}
 
-let idade = 17;
-
-if (idade >= 16) {
-
-  console.log("Você PODE votar!");
-
-} else {
-
-  console.log("Você NÃO PODE votar.");
-
-}
+  rl.close();
+});
