@@ -12,6 +12,7 @@ Componentes:
  25355474-2 - Silvia de Oliveira Fabro
  25178018-2 - Yuri Kauan de Paula
 Data: 05 de Março de 2026
-Descritivo: Escreva uma função que receba dois números e retorne o maior deles.
+Descritivo: 1. Crie um programa que verifique se um número é par ou ímpar.
 *******************************************************************************/
+//1. Crie um programa que verifique se um número é par ou ímpar.
 
