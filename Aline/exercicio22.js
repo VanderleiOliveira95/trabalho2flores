@@ -15,3 +15,12 @@ Data: 05 de Março de 2026
 Descritivo: 22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
 *******************************************************************************/
 //22. Crie uma função `areaRetangulo(base, altura)` que retorne a área.
+
+// Declara a função com dois parâmetros: base e altura
+function areaRetangulo(base, altura) { // recebe os valores da base e da altura
+    return base * altura; // retorna a área (base × altura)
+}
+
+// Exemplo de uso:
+let area = areaRetangulo(5, 4); // chama a função passando 5 e 4
+console.log(area); // imprime 20 no console
