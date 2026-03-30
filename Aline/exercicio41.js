@@ -16,3 +16,11 @@ Descritivo:41. Converta a função `function soma(a,b) { return a+b }` para Arro
 
 *******************************************************************************/
 //41. Converta a função `function soma(a,b) { return a+b }` para Arrow Function.
+
+// Forma tradicional
+function soma(a, b) { 
+    return a + b;
+}
+
+// Arrow Function equivalente
+const soma = (a, b) => a + b; // retorna a + b de forma implícita
