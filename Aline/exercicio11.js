@@ -15,3 +15,9 @@ Data: 05 de Março de 2026
 Descritivo:11. Use um `for` para imprimir os números de 1 a 10 no console.
 *******************************************************************************/
 //11. Use um `for` para imprimir os números de 1 a 10 no console.
+
+
+// Loop que vai de 1 até 10
+for (let i = 1; i <= 10; i++) { // i começa em 1, repete enquanto for <= 10, incrementa +1 a cada volta
+    console.log(i); // imprime o valor atual de i no console
+}
