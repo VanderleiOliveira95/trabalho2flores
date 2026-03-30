@@ -16,7 +16,6 @@ Descritivo:
 23. 
 31. Dada uma string, transforme-a em um array de caracteres.[nome]!
 "*******************************************************************************/
-//31. Dada uma string, transforme-a em um array de caracteres.
 
 // String de exemplo
 let texto = "JavaScript";
