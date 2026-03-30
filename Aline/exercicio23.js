@@ -13,5 +13,6 @@ Componentes:
  25178018-2 - Yuri Kauan de Paula
 Data: 05 de Março de 2026
 Descritivo:
-23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!"*******************************************************************************/
+23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!
+"*******************************************************************************/
 //23. Escreva uma função `saudacao(nome)` que retorne "Olá, [nome]!"
