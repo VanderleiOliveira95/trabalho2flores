@@ -61,7 +61,7 @@ Este repositório contém uma lista com 50 exercícios para praticar os fundamen
 33. Use `.map()` para dobrar todos os valores de um array numérico. (LUCAS)
 34. Use `.filter()` para criar um novo array apenas com números pares. (VANDERLEI)
 35. Use `.find()` para encontrar o primeiro número maior que 10 em um array.
-36. Use `.reduce()` para somar todos os elementos de um array.
+36. Use `.reduce()` para somar todos os elementos de um array. (VANDERLEI)
 37. Verifique se um array contém o elemento "Maçã" usando `.includes()`. (YURI)
 38. Dada uma frase, conte quantas palavras ela possui (use `split`). (KAUANY)
 39. Ordene um array de números em ordem crescente.
