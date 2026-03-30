@@ -14,7 +14,6 @@ Componentes:
 Data: 05 de Março de 2026
 Descritivo:11. Use um `for` para imprimir os números de 1 a 10 no console.
 *******************************************************************************/
-//11. Use um `for` para imprimir os números de 1 a 10 no console.
 
 
 // Loop que vai de 1 até 10
