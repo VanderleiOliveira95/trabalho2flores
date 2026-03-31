@@ -23,8 +23,8 @@ Este repositório contém uma lista com 50 exercícios para praticar os fundamen
 4. Crie um sistema simples de login: se o usuário for "admin" e a senha "1234", mostre "Acesso Permitido", caso contrário, "Acesso Negado". (YURI)
 5. Verifique se um ano é bissexto (divisível por 4, mas não por 100, exceto se for divisível por 400). (VANDERLEI )
 6. Receba um número de 1 a 7 e exiba o dia da semana correspondente (use `switch`). (YURI)
-7. Calcule o IMC (Peso / Altura²) e classifique (Abaixo do peso, Normal, Sobrepeso, Obesidade).
-8. Verifique se três lados informados podem formar um triângulo e, se sim, classifique-o (Equilátero, Isósceles, Escaleno).
+7. Calcule o IMC (Peso / Altura²) e classifique (Abaixo do peso, Normal, Sobrepeso, Obesidade).(GILBERTO)
+8. Verifique se três lados informados podem formar um triângulo e, se sim, classifique-o (Equilátero, Isósceles, Escaleno).(GILBERTO)
 9. Crie um programa que aplique um desconto de 10% se a compra for acima de R$ 100,00. (KAUANY)
 10. Verifique se um caractere informado é uma vogal ou consoante. (VANDERLEI)
 
@@ -37,9 +37,9 @@ Este repositório contém uma lista com 50 exercícios para praticar os fundamen
 15. Use um `while` para contar regressivamente de 10 até 0. (YURI)
 16. Crie um loop que pare (`break`) quando encontrar o número 7 em uma contagem de 1 a 10. (VANDERLEI)
 17. Calcule o fatorial de um número informado (ex: 5! = 5*4*3*2*1). (KAUANY)
-18. Gere os primeiros 10 números da sequência de Fibonacci.
-19. Dado um array de números, use um loop para encontrar o maior valor.
-20. Use um `do...while` para garantir que uma variável seja incrementada pelo menos uma vez antes da verificação.
+18. Gere os primeiros 10 números da sequência de Fibonacci.(GILBERTO)
+19. Dado um array de números, use um loop para encontrar o maior valor.(GILBERTO)
+20. Use um `do...while` para garantir que uma variável seja incrementada pelo menos uma vez antes da verificação.(GILBERTO)
 
 ### Funções (Declaração, Parâmetros e Retorno)
 
@@ -60,12 +60,12 @@ Este repositório contém uma lista com 50 exercícios para praticar os fundamen
 32. Dado um array de nomes, transforme-o em uma string separada por vírgulas. (SILVIA)
 33. Use `.map()` para dobrar todos os valores de um array numérico. (LUCAS)
 34. Use `.filter()` para criar um novo array apenas com números pares. (VANDERLEI)
-35. Use `.find()` para encontrar o primeiro número maior que 10 em um array.
+35. Use `.find()` para encontrar o primeiro número maior que 10 em um array.(GILBERTO)
 36. Use `.reduce()` para somar todos os elementos de um array. (VANDERLEI)
 37. Verifique se um array contém o elemento "Maçã" usando `.includes()`. (YURI)
 38. Dada uma frase, conte quantas palavras ela possui (use `split`). (KAUANY)
-39. Ordene um array de números em ordem crescente.
-40. Remova os espaços em branco do início e fim de uma string (`trim`).
+39. Ordene um array de números em ordem crescente.(GILBERTO)
+40. Remova os espaços em branco do início e fim de uma string (`trim`).(GILBERTO)
 
 ### Funções Anônimas, Arrow Functions, Callbacks e HOF
 
